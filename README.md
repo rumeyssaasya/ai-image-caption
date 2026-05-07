@@ -15,3 +15,5 @@ uvicorn main:app --reload
 
 ## Run Frontend
 npm start
+
+<img width="880" height="861" alt="Ekran görüntüsü 2026-05-07 011410" src="https://github.com/user-attachments/assets/b248328b-ea15-4e0c-b3d5-abed3dddfcce" />
